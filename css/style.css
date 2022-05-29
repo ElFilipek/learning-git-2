@@ -1,0 +1,17 @@
+/*Global*/
+
+body {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.7;
+}
+.container {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+/*POEM*/
+.poem {
+    text-align: center;
+}
