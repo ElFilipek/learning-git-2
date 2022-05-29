@@ -1,0 +1,1 @@
+html-validate /*.html   <-- wszystkie błędy w plikach html
